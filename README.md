@@ -1,4 +1,4 @@
-# SouCodeAcademy
+# SoulCodeAcademy
 Código de exemplo para aula da SoulCodeAcademy
 
 Author
